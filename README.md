@@ -1,20 +1,46 @@
-COMPATIBLE WITH STEAM RELEASE
+# Kingdom Hearts 3 Visual Enhancement Mod
 
-Installation process
-Create a ~mods folder in your game directory: C:\Program Files (x86)\Steam\steamapps\common\KINGDOM HEARTS III\KINGDOM HEARTS III\Content\Paks
-Inside ~mods folder drop the file (C:\Program Files (x86)\Steam\steamapps\common\KINGDOM HEARTS III\KINGDOM HEARTS III\Content\Paks\~mods)
+## Overview
 
-What does this mod add?
-Improved Screen Space Reflections
-Increases LoD
-Improves Shadows
-Fixes some artifacts present in certain zones
-It doesn't have any performance hit at least on a RTX 2060 + Ryzen 5 3600 PC playing at 1080p and Ultra Settings
+This mod for Kingdom Hearts 3 improves the game's visual fidelity by enhancing several graphical aspects. It increases shadow distance and resolution, enhances screen space reflections, improves Level of Detail (LoD), and fixes various visual artifacts. The result is a more visually appealing and immersive experience.
 
-You can also try my Motion Blur Mod: Motion Blur Presets at Kingdom Hearts III Nexus - Mods and community (nexusmods.com)
+## Features
 
-I would appreciate if someone tested the EGS version with this mod.
+- **Improved Shadow Distance and Resolution:** Enhances the quality and distance of shadows for a more realistic appearance.
+- **Enhanced Screen Space Reflections:** Upgrades reflections to be more accurate and visually pleasing.
+- **Better Level of Detail (LoD):** Increases the detail of objects at various distances, reducing pop-in and maintaining high-quality visuals.
+- **Fixed Visual Artifacts:** Addresses and fixes various visual glitches and artifacts present in the original game.
 
-Thanks to KeytoTruth for providing a .ini file compatible with Steam and Mythical from OpenKH server for helping me with the game's files structure
+## Installation
 
-Twitter: Iván 🚀 (@VanitasXIV) / X
+1. **Download the Mod:**
+   - Download the latest release of the mod from the [Releases](https://github.com/ivangonzalogomez/KH3UltraPlusQualityGraphics/releases) page.
+
+2. **Extract the Files:**
+   - Extract the downloaded ZIP file to a temporary location.
+
+3. **Locate mods Directory:**
+   - Find the installation directory of Kingdom Hearts 3 mods. This is typically located in `C:\Program Files (x86)\Steam\steamapps\common\KINGDOM HEARTS III\KINGDOM HEARTS III\Content\Paks\~mods`.
+
+
+## Compatibility
+
+- This mod is designed to be compatible with the latest version of Kingdom Hearts 3 on Steam.
+- It may not be compatible with other mods that alter the game's graphics or visual settings.
+
+## Known Issues
+
+- Some minor performance drops may occur on lower-end hardware due to the increased graphical fidelity.
+- If you experience any issues, try lowering the in-game graphics settings or reverting to the original files.
+
+## Contributing
+
+Contributions are welcome! If you have suggestions for improvements or have found any bugs, please open an issue or submit a pull request on the [GitHub repository](https://github.com/ivangonzalogomez/KH3UltraPlusQualityGraphics/).
+
+## Acknowledgements
+
+- Special thanks to the Kingdom Hearts modding community for their support and resources.
+- [OpenKH](https://openkh.dev/) for their tools and documentation.
+
+Enjoy the enhanced visuals of Kingdom Hearts 3!
+
